@@ -1,6 +1,6 @@
 # Malayalam Song Lyrics Sentiment Analysis Across Five Decades
 
-This project analyzes how the sentiment in Malayalam film songs has shifted from the 1980s – 2020s. I utilized manual annotations, rule-based tools, ChatGPT, and clear visualizations. The project demonstrates an end-to-end NLP workflow, from scraping -> preprocessing -> analysis -> visualization.
+This project analyzes how the sentiment in Malayalam film songs has shifted from the 1980s – 2020s. I utilized manual annotations, rule-based tools, OpenAI API, and clear visualizations. The project demonstrates an end-to-end NLP workflow, from scraping -> preprocessing -> analysis -> visualization.
 
 ---
 
@@ -8,7 +8,7 @@ This project analyzes how the sentiment in Malayalam film songs has shifted from
 
 1. **Under-resourced language NLP:** Malayalam’s abdundant morphology, diglossia (spoken vs written), and sparse resources makes this more challenging for computational analysis
 2. **Lyrical and cultural comprehension:** Song and poetic lyrics gives consideration to social, mood, and dialect trends and changes across time  
-3. **Methodological comparison:** This project analyzes how human sentiment labels, ChatGPT, VADER, and TextBlob might differ on the same data set 
+3. **Methodological comparison:** This project analyzes how human sentiment labels and ouputs from the OpenAI ChatGPT API, VADER, and TextBlob might differ on the same data set
 ---
 
 ## Dataset
